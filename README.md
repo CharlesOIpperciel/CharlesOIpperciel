@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles-Olivier Ipperciel</h1>
 <h3 align="center">Fullstack Developer and a soon-to-be graduate in computer science at Université de Sherbrooke!📗🧑‍💻</h3>
 
-- 🔭 I’m currently working on [MEDomicsLab 🤖](https://github.com/MEDomics-UdeS/MEDomicsLab)
+- 🔭 I’m currently working on [MEDomicsLab 🤖](https://github.com/MEDomics-UdeS/MEDomicsLab) and [StudyHive 🐝](https://github.com/CharlesOIpperciel/StudyHive)
 
 - 🧑‍💻 I’m always looking to collaborate on *any projects that interests me! 📖*
 
