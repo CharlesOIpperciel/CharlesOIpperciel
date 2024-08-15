@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: *ippc2001@usherbrooke.ca*
 
-- ⚡ Fun fact *My last name used to be 'Ipperciel,' but somewhere along the way, it got misspelled, and now it became 'Ipperciel.'*
+- ⚡ Fun fact *My last name used to be 'Ippersiel,' but somewhere along the way, it got misspelled, and now it became 'Ipperciel.'*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
