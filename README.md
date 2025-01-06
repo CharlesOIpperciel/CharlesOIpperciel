@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://charlesoipperciel.github.io) 📄
 
-- 📫 How to reach me: *ippc2001@usherbrooke.ca*
+- 📫 How to reach me: *charlesolivieripperciel@gmail.com*
 
 - ⚡ Fun fact *My last name used to be 'Ippersiel,' but somewhere along the way, it got misspelled, and now it became 'Ipperciel.'*
 
