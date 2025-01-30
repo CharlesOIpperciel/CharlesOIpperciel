@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact *My last name used to be 'Ippersiel,' but somewhere along the way, it got misspelled, and now it became 'Ipperciel.'*
 
-<h3 align="center">🚀 Here's an overview of my current technology stack and the tools I've utilized to date 🚀</h3>
+<h3 align="center">🚀 Here's an overview of my current technology stack and the tools I'm comfortable with 🚀</h3>
 
 <table align="center">
 	<thead>
