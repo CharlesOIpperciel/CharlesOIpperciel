@@ -3,15 +3,9 @@
 
 - 🔭 I’m graduating from my CS bachelor in April and working part-time on [MEDomicsLab](https://github.com/MEDomics-UdeS/MEDomicsLab) 🤖
 
-- 🧑‍💻 I’m always looking to collaborate on *any projects that interests me! 📖*
-
-- 🤝 I’m looking to better myself as a programmer with *every new project I start 😊*
-
 - 👨‍💻 All of my projects are available on my [portfolio](https://charlesoipperciel.github.io) 📄
 
 - 📫 How to reach me: *charlesolivieripperciel@gmail.com*
-
-- ⚡ Fun fact *My last name used to be 'Ippersiel,' but somewhere along the way, it got misspelled, and now it became 'Ipperciel.'*
 
 <h3 align="center">🚀 Here's an overview of my current technology stack and the tools I'm comfortable with 🚀</h3>
 
