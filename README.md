@@ -3,7 +3,7 @@
 
 - 🔭 I’m graduating from my CS bachelor in April and working part-time on [MEDomicsLab](https://github.com/MEDomics-UdeS/MEDomicsLab) 🤖
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://charlesoipperciel.github.io/new_portfolio_2.0/) 📄
+- 👨‍💻 All of my projects are available on my [portfolio](https://charlesoipperciel.github.io/PortfolioReact/) 📄
 
 - 📫 How to reach me: *charlesolivieripperciel@gmail.com*
 
