@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: *charlesolivieripperciel@gmail.com*
 
-<h3 align="center">🚀 Here's an overview of my current technology stack and the tools I'm comfortable with 🚀</h3>
+<h3 align="center">🚀 Here's an overview of my current technology stack and the tools I'm most comfortable with 🚀</h3>
 
 <table align="center">
 	<thead>
