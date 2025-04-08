@@ -1,7 +1,6 @@
 # **Hi, I'm Charles-Olivier Ipperciel 👋**  
 ### 🧑‍💻 Software Developer | B.Sc. in Computer Science – Université de Sherbrooke  
 
-- 🔭 **Graduating in April 2025** and working part-time on [MEDomicsLab](https://medomicslab.com/) 🤖  
 - 👨‍💻 **Check out my projects** on my [portfolio](https://charlesoipperciel.github.io/PortfolioReact/) 📄  
 - 📫 **Contact me**: *charlesolivieripperciel@gmail.com*  
 
