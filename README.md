@@ -1,7 +1,8 @@
 # **Hi, I'm Charles-Olivier Ipperciel 👋**  
 ### 🧑‍💻 Software Developer | B.Sc. in Computer Science – Université de Sherbrooke  
 
-- 👨‍💻 **Check out my projects** on my [portfolio](https://charlesoipperciel.github.io/PortfolioReact/) 📄  
+- 👨‍💻 **Check out my projects** on my [portfolio](https://charlesoipperciel.github.io/PortfolioReact/) 📄
+- 📈 **Currently working on Taskline**, a task management app for better productivity. Check it out [here](https://taskline-2a973.web.app) ⚡
 - 📫 **Contact me**: *charlesolivieripperciel@gmail.com*  
 
 ## 🚀 My Tech Stack  
