@@ -2,7 +2,7 @@
 ### 🧑‍💻 Software Developer | B.Sc. in Computer Science – Université de Sherbrooke  
 
 - 👨‍💻 **Check out my projects** on my [portfolio](https://charlesoipperciel.github.io/PortfolioReact/) 📄
-- 📈 **Currently working on Taskline**, a task management app for better productivity. Check it out [here](https://taskline-2a973.web.app) ⚡
+- 📈 **Currently working for A1 Imports.inc**⚡
 - 📫 **Contact me**: *charlesolivieripperciel@gmail.com*  
 
 ## 🚀 My Tech Stack  
