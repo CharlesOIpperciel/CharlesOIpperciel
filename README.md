@@ -2,7 +2,7 @@
 ### 🧑‍💻 Software Developer | B.Sc. in Computer Science – Université de Sherbrooke  
 
 - 👨‍💻 **Check out my projects** on my [portfolio](https://charlesoipperciel.github.io/PortfolioReact/) 📄
-- 📈 **Currently working for A1 Imports.inc**⚡
+- 📈 **Currently working for A1 Imports and Institut du E-Commerce**⚡
 - 📫 **Contact me**: *charlesolivieripperciel@gmail.com*  
 
 ## 🚀 My Tech Stack  
